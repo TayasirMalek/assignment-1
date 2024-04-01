@@ -1,0 +1,462 @@
+/* Universal Section */
+
+
+header {
+    margin: 50px 140px;
+}
+
+main {
+    margin: 0 140px;
+}
+
+section {
+    margin-bottom: 120px;
+}
+
+/* Header section */
+
+header {
+    background: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.header-content {
+    padding: 180px 350px;
+}
+
+.header-title {
+    color: #FFF;
+    -webkit-text-stroke: 1px black;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.header-title2 {
+    color: #FFF;
+    -webkit-text-stroke: 1px black;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+/* Main section */
+
+.first-section-content {
+    display: block;
+}
+
+.section-text1 {
+    text-align: center;
+}
+
+#section-1-title {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+#section-1-title-2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#section-1-title-3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.first-section-content img {
+    width: 800px;
+    margin: 50px 25%;
+}
+
+main .second-section-content {
+    margin: 140px;
+}
+
+.second-section-content {
+    background: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-text2 {
+    padding: 80px 126px;
+
+}
+
+#section-2-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+
+#section-2-desc {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+#section-2-anchor {
+    text-decoration: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.section-img2 {
+    padding: 70px 0;
+    padding-right: 140px;
+    background-blend-mode: multiply;
+}
+
+.info {
+    margin: 0 140px;
+    background-color: rgba(255, 192, 203, 0.322);
+    padding-top: 100px;
+    padding-bottom: 120px;
+    border-radius: 2px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.info span {
+    color: #F00;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    border: 0;
+    background: #F00;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 28px;
+}
+
+.third-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 140px;
+    gap: 120px;
+}
+
+.third-section-content {
+    max-width: 400px;
+}
+
+.third-section-content h5 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.third-section-content h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.third-section-content p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.third-section-content2 img {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 25px;
+}
+
+.third-section-content3 h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.third-section-content3 p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.fourth-section {
+    margin: 0 140px;
+}
+
+.fourth-section-text {
+    text-align: center;
+    padding: 0;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.fourth-section-text h5 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.fourth-section-text h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.fourth-section-text span {
+    color: #F00;
+}
+
+.fourth-section-text p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.fourth-image {
+    position: relative;
+    margin-top: 60px;
+    left: 890px;
+    margin-bottom: 0;
+}
+
+.fourth-img2,
+.fourth-img1,
+.fourth-img3 {
+    position: absolute;
+    top: 65px;
+}
+
+.fourth-img1 {
+    right: 1170px;
+}
+
+.fourth-img3 {
+    top: 130px;
+    right: 1550px;
+    ;
+}
+
+/* I dont know how I did it. But if it works, it works:) */
+
+.fifth-image {
+    background: url('../resources/Rectangle 2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 220px;
+}
+
+
+.fifth-image .fifth-img1 {}
+
+.fifth-text {
+    max-width: 800px;
+    margin: 0 140px;
+}
+
+.fifth-title1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.fifth-title2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 0;
+}
+
+.fifth-desc {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 20px;
+}
+
+.fifth-product1 {
+    margin: 0 140px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.fifth-product2 {
+    margin: 0 140px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sixth-content {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 0 140px;
+    padding: 80px 200px;
+}
+
+.sixth-content img {
+    padding-left: 400px;
+}
+
+.sixth-title {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.sixth-desc {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.sixth-input {
+    display: flex;
+    justify-content: center;
+}
+
+.sixth-input input {
+    border-radius: 50px 0px 0px 50px;
+    border: 0;
+    background: #FFF;
+    padding: 25px 160px 25px 35px;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.sixth-input button {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 0px 50px 50px 0px;
+    border: 0;
+    background: #F00;
+    padding: 25px 50px;
+}
+
+/* Footer section */
+footer {
+    background: #070211;
+    padding: 120px 140px;
+}
+
+.footer-text1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-sub-text1 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    max-width: 350px;
+}
+
+.footer-sub-text2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.footer-sub-text2 h5 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin: 45px 0px;
+}
+
+.footer-text2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-sub-text3 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.footer-sub-text4 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
